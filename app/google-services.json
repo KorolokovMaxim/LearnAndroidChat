@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "649871768909",
+    "firebase_url": "https://turnicchat-b7ae8.firebaseio.com",
+    "project_id": "turnicchat-b7ae8",
+    "storage_bucket": "turnicchat-b7ae8.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:649871768909:android:a25e3407eaeb01a0730b04",
+        "android_client_info": {
+          "package_name": "max.project.turnicchat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "649871768909-8s0ub3niplnkm17bfmf4qd6t3lb98p8s.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCQ1BpJqNkFBWWdZycO1GkI_SoH0O6SrbA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "649871768909-8s0ub3niplnkm17bfmf4qd6t3lb98p8s.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
